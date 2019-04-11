@@ -1,0 +1,10 @@
+﻿  Uic'ing ImageSegmentationUI.ui...
+  Rcc'ing ImageSegmentationUI.qrc...
+  Moc'ing ImageSegmentationUI.h...
+   RCC: Warning: No resources in 'D:\ProgramData\VsProjects\ImageSegmentationUI\ImageSegmentationUI\ImageSegmentationUI.qrc'.
+  moc_ImageSegmentationUI.cpp
+  qrc_ImageSegmentationUI.cpp
+  ImageSegmentationUI.cpp
+  main.cpp
+d:\programdata\vsprojects\imagesegmentationui\imagesegmentationui\imagesegmentationui.cpp(68): warning C4700: 使用了未初始化的局部变量“event”
+  ImageSegmentationUI.vcxproj -> D:\ProgramData\VsProjects\ImageSegmentationUI\x64\Debug\ImageSegmentationUI.exe
